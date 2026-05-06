@@ -31,8 +31,8 @@ These are real apps I built and shipped — not side projects, not demos.
 | App | What it does |
 |-----|-------------|
 | [Daily Quotes Widget Offline](https://play.google.com/store/apps/details?id=com.firodexora.quotes) | Motivational quotes with a home screen widget, works fully offline |
-| [Rayola Mehndi Design](https://play.google.com/store/apps/details?id=com.rayola.mehndidesign) | Mehndi design inspiration and reference app |
-| [Be Beautiful](https://play.google.com/store/apps/details?id=com.rayola.be_beautiful) | Beauty and lifestyle app |
+| [Mehndi Design 2026: Bridal Art](https://play.google.com/store/apps/details?id=com.rayola.mehndidesign) | Mehndi design inspiration and reference app |
+| [Beauty Tips -Natural Care](https://play.google.com/store/apps/details?id=com.rayola.be_beautiful) | Beauty and lifestyle app |
 
 ---
 
